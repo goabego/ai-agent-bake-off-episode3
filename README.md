@@ -22,14 +22,17 @@ In addition to the main build, the teams faced a **surprise 2-hour mini-hackatho
 ## Team Resources: Code & Architecture
 
 **Daniel & Luis (GTM Forge)**
+![GTM Forge Logo](./images/ep3-gtmforge.png)
 *   **Code:** [https://github.com/DanielJEfres/GTMForge](https://github.com/DanielJEfres/GTMForge)
 *   **Architecture:** [tldraw Link](https://www.tldraw.com/f/Rgz7B7Tn5DUpi9P_VHf1x?d=v-783.-1809.6764.4571.pG8u-3ay57o4mE_SVCgVZ)
 
 **Zach & Laxmi (Launchpad)**
+![Launchpad Logo](./images/ep3-launchpad.png)
 *   **Code:** [https://github.com/mzschandy/launchpad](https://github.com/mzschandy/launchpad)
 *   **Architecture:** [tldraw Link](https://www.tldraw.com/f/ywDYY0KH7CzOxdAYwBc4b?d=v-2703.-948.3991.2697.N-WczzxdGlCI_6xYE3eJd)
 
 **Muhammad & Ayo (Superpowers)**
+![Superpowers Logo](./images/ep3-superpowers.png)
 *   **Code:** [https://github.com/ayoisio/ep3-agent-bake-off-startup-gtm-agents](https://github.com/ayoisio/ep3-agent-bake-off-startup-gtm-agents)
 *   **Architecture:** [Figma Link](https://www.figma.com/design/E9FTXsFrtOh1ZmviXi7uKj/Agent-Bakeoff--Episode-3-?node-id=1-2&p=f&t=T31TdXqL5LSqpldj-0)
 
